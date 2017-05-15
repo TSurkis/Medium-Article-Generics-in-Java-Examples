@@ -1,1 +1,2 @@
-# Medium-Article-Generics-in-Java-Examples
+Generics in Java — Have no fear, Generics is here
+================================================
